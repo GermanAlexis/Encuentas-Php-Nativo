@@ -1,9 +1,0 @@
-.dropdown:hover>.dropdown-menu {
-    background-color: rgb(15, 155, 15);
-}
-
-.dropdown>.dropdown-menu {
-    top: 51px;
-    border: none;
-    background-color:rgb(15, 155, 15);
-}
